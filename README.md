@@ -6,16 +6,15 @@ Este projeto é um buscador que utiliza a API do YouTube para pesquisar vídeos 
 
 ```
 youtube-search-app
-├── src
-│   ├── index.js          # Ponto de entrada da aplicação
-│   ├── api
-│   │   └── youtube.js    # Funções para interagir com a API do YouTube
-│   ├── utils
-│   │   └── xmlConverter.js # Função para converter JSON em XML
-│   └── views
-│       └── searchForm.js  # Formulário de busca na interface do usuário
-├── package.json           # Configuração do npm
-└── README.md              # Documentação do projeto
+── index.js          # Ponto de entrada da aplicação
+├── api
+│   └── youtube.js    # Funções para interagir com a API do 
+├── utils
+│   └── gexfConverter.js # Função para converter JSON em GEXF
+└── views
+│   └── searchForm.js  # Formulário de busca na interface do usuário
+│package.json           # Configuração do npm
+│README.md              # Documentação do projeto
 ```
 
 ## Instalação
