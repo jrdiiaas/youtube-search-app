@@ -1,6 +1,6 @@
 # YouTube Search App
 
-Este projeto é um buscador que utiliza a API do YouTube para pesquisar vídeos com base em uma consulta de texto fornecida pelo usuário. Os resultados da busca são retornados em formato XML.
+Este projeto é um buscador que utiliza a API do YouTube para pesquisar vídeos com base em uma consulta de texto fornecida pelo usuário. Os resultados da busca são retornados em formato GEXF, extensão utilizada no GEPHI.
 
 ## Estrutura do Projeto
 
