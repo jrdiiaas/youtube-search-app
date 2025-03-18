@@ -1,5 +1,5 @@
 # Ignorar diretório node_modules
 node_modules/
 
-# Ignorar novo arquivo
-youtube.js
+# Ignorar arquivo
+src/youtube.js
